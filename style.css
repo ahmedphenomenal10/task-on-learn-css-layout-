@@ -1,0 +1,36 @@
+.title{
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+    position: absolute;
+    bottom: 50%;
+}
+.img{
+    background-color: darkgray;
+    font-size: xx-large;
+    font-weight: 500px;
+    text-align: center;
+}
+/*div{
+    background-color: darkgray;
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+    position: absolute;
+ 
+}*/
+p{
+    font-size: 20px;
+}
+a{
+    color: red
+}
+button{
+    width: 150px;
+    height: 50px;
+    background-color: red;
+    color:blanchedalmond;
+    text-align: end;
+    cursor: pointer;
+    margin-left: 50%;
+}
